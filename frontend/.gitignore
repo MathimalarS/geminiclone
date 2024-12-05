@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+* text=auto
+*.js  text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+
